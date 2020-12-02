@@ -7,7 +7,7 @@
 <p align="center">
   Desafio que se consistia em completar o código dessa vez da aplicação frontend de transações de entradas e saídas o GoFinances, envolvendo navegação entre rotas, uso da API desenvolvida no desafio anterior, envio de arquivo CSV e listagem das transações
 </p>
-
+wad
 <p align="center">
   <a href="#gear-como-rodar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-tecnologias-usadas-neste-projeto">Tecnologias</a>
@@ -36,8 +36,9 @@ O projeto está utilizando as seguintes tecnologias:
 -  [react-icons](https://react-icons.github.io/react-icons/)
 
 ## :gear: Como rodar
+Um arquivo CSV de exemplo está disponível aqui [link](https://github.com/AlexBitar80/Fundamentos-ReactJs/blob/master/example.csv) para você testar ai.
 
-Para clonar e rodar esse projeto você vai precisar do [Node](https://nodejs.org/en/) do [Yarn](https://yarnpkg.com/) do [Npm](https://www.npmjs.com/get-npm) e do [Git](https://git-scm.com/) instalado na rua máquina
+Para clonar e rodar esse projeto você vai precisar do [Node](https://nodejs.org/en/) do [Yarn](https://yarnpkg.com/) do [Npm](https://www.npmjs.com/get-npm) e do [Git](https://git-scm.com/) instalado na rua máquina.
 
 A aplicação está utilizando o backend desenvolvido no desafio anterior, para utilizar basta acessa-lo nesse [link](https://github.com/AlexBitar80/Database-upload), seguir a sua documentação e mante-lo rodando durante todo o processo
 
