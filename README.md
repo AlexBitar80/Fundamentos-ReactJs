@@ -1,13 +1,17 @@
 <div align="center">
-	<img src="https://user-images.githubusercontent.com/56983783/100900662-d30aa000-34a1-11eb-92fa-06373461ddbf.png" alt="Go Finances"/>
+  <div style="background-color: #31363f;">
+    <img src="https://user-images.githubusercontent.com/56983783/100900662-d30aa000-34a1-11eb-92fa-06373461ddbf.png" alt="Go Finances"/>
+  </div>
 <h3 align="center">
 	BootCamp Gostack - Desafio 07 - Fundamentos-ReactJS
 </h3>
+
+
 </div>
 <p align="center">
   Desafio que se consistia em completar o código dessa vez da aplicação frontend de transações de entradas e saídas o GoFinances, envolvendo navegação entre rotas, uso da API desenvolvida no desafio anterior, envio de arquivo CSV e listagem das transações
 </p>
-wad
+
 <p align="center">
   <a href="#gear-como-rodar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-tecnologias-usadas-neste-projeto">Tecnologias</a>
