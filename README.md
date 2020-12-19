@@ -9,7 +9,7 @@
 
 </div>
 <p align="center">
-  Desafio que se consistia em completar o código dessa vez da aplicação frontend de transações de entradas e saídas o GoFinances, envolvendo navegação entre rotas, uso da API desenvolvida no desafio anterior, envio de arquivo CSV e listagem das transações
+  Desafio que se coinsistia em completar o código dessa vez da aplicação frontend de transações de entradas e saídas o GoFinances, envolvendo navegação entre rotas, uso da API desenvolvida no desafio anterior, envio de arquivo CSV e listagem das transações
 </p>
 
 <p align="center">
