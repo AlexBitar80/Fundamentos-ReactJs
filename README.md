@@ -42,7 +42,7 @@ O projeto está utilizando as seguintes tecnologias:
 ## :gear: Como rodar
 Um arquivo CSV de exemplo está disponível aqui [link](https://github.com/AlexBitar80/Fundamentos-ReactJs/blob/master/example.csv) para você testar ai.
 
-Para clonar e rodar esse projeto você vai precisar do [Node](https://nodejs.org/en/) do [Yarn](https://yarnpkg.com/) do [Npm](https://www.npmjs.com/get-npm) e do [Git](https://git-scm.com/) instalado na rua máquina.
+Para clonar e rodar esse projeto você vai precisar do [Node](https://nodejs.org/en/) do [Yarn](https://yarnpkg.com/) do [Npm](https://www.npmjs.com/get-npm) e do [Git](https://git-scm.com/) instalado na sua máquina.
 
 A aplicação está utilizando o backend desenvolvido no desafio anterior, para utilizar basta acessa-lo nesse [link](https://github.com/AlexBitar80/Database-upload), seguir a sua documentação e mante-lo rodando durante todo o processo
 
